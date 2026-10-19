@@ -1,0 +1,305 @@
+customer_id,customer_name,email,country,region,segment,signup_date
+C0001,Amelia Patel,amelia.patel1@example.com,India,Asia Pacific,Consumer,2024-01-23
+C0002,Liam Moreau,liam.moreau2@example.com,United States,North America,Corporate,2025-06-25
+C0003,Grace Dubois,grace.dubois3@example.com,Germany,Europe,Corporate,2023-02-16
+C0004,Lea Wilson,lea.wilson4@example.com,India,Asia Pacific,Small Business,2025-05-25
+C0005,Lucas Muller,lucas.muller5@example.com,United Kingdom,Europe,Consumer,2025-05-04
+C0006,Mateo Brown,mateo.brown6@example.com,Canada,North America,Consumer,2023-10-01
+C0007,Diego Hughes,diego.hughes7@example.com,France,Europe,Corporate,2023-06-25
+C0008,Hannah Wagner,hannah.wagner8@example.com,United States,North America,Consumer,2023-10-04
+C0009,Ananya Reddy,ananya.reddy9@example.com,Spain,Europe,Consumer,2023-11-29
+C0010,Rohan Bernard,rohan.bernard10@example.com,India,Asia Pacific,Consumer,2023-02-02
+C0011,Amelia Schmidt,amelia.schmidt11@example.com,United Kingdom,Europe,Consumer,2024-08-03
+C0012,Felix Suzuki,felix.suzuki12@example.com,Canada,North America,Corporate,2024-02-10
+C0013,Felix Reddy,felix.reddy13@example.com,United Kingdom,Europe,Consumer,2023-09-10
+C0014,Sara Moreau,sara.moreau14@example.com,Germany,Europe,Corporate,2024-03-14
+C0015,Felix Lee,felix.lee15@example.com,United Kingdom,Europe,Consumer,2023-05-22
+C0016,Leon Clark,leon.clark16@example.com,United States,North America,Consumer,2023-04-23
+C0017,Noah Reddy,noah.reddy17@example.com,United States,North America,Corporate,2024-09-02
+C0018,Liam Taylor,liam.taylor18@example.com,United Kingdom,Europe,Small Business,2024-06-25
+C0019,Mia Moreau,mia.moreau19@example.com,Australia,Asia Pacific,Consumer,2025-01-08
+C0020,Emma Hughes,emma.hughes20@example.com,Australia,Asia Pacific,Corporate,2025-02-26
+C0021,Oscar Schmidt,oscar.schmidt21@example.com,United States,North America,Consumer,2024-04-09
+C0022,Aarav Wagner,aarav.wagner22@example.com,Australia,Asia Pacific,Consumer,2024-05-27
+C0023,Kenji Brown,kenji.brown23@example.com,Germany,Europe,Consumer,2024-10-02
+C0024,Ethan Reddy,ethan.reddy24@example.com,Germany,Europe,Consumer,2024-01-18
+C0025,Kenji Brown,kenji.brown25@example.com,Germany,Europe,Corporate,2024-06-27
+C0026,Ananya Smith,ananya.smith26 at example.com,Germany,Europe,Consumer,2023-04-25
+C0027,Ananya Dubois,ananya.dubois27@example.com,Australia,Asia Pacific,Corporate,2023-11-11
+C0028,Lucas Patel,lucas.patel28@example.com,United States,North America,Consumer,2023-03-22
+C0029,Liam Wagner,liam.wagner29@example.com,United Kingdom,Europe,Consumer,2025-02-17
+C0030,Hannah Bernard,hannah.bernard30@example.com,United States,North America,Corporate,2024-07-16
+C0031,Ava Kumar,ava.kumar31@example.com,Germany,Europe,Corporate,2023-08-05
+C0032,Ananya Moreau,ananya.moreau32@example.com,India,Asia Pacific,Corporate,2024-12-31
+C0033,Ethan Taylor,ethan.taylor33@example.com,Japan,Asia Pacific,Corporate,2024-03-24
+C0034,Felix Fischer,felix.fischer34@example.com,United Kingdom,Europe,Consumer,2023-03-07
+C0035,Isabella Smith,isabella.smith35@example.com,Germany,Europe,Consumer,2023-08-14
+C0036,Aarav Garcia,aarav.garcia36@example.com,Spain,Europe,Consumer,2023-03-11
+C0037,Felix Patel,felix.patel37@example.com,Australia,Asia Pacific,Consumer,2023-09-01
+C0038,Mia Hughes,mia.hughes38@example.com,United Kingdom,Europe,Consumer,2025-01-10
+C0039,Ananya Lee,ananya.lee39@example.com,Germany,Europe,Consumer,2024-04-29
+C0040,Amelia Sato,amelia.sato40@example.com,United States,North America,Consumer,2024-03-17
+C0041,Mateo Sato,mateo.sato41@example.com,United Kingdom,Europe,Small Business,2023-02-25
+C0042,Lea Reddy,lea.reddy42 at example.com,Japan,Asia Pacific,Consumer,2024-02-17
+C0043,Sara Schmidt,sara.schmidt43@example.com,India,Asia Pacific,Consumer,2023-07-16
+C0044,Sophia Moreau,sophia.moreau44@example.com,United Kingdom,Europe,Consumer,2023-10-13
+C0045,Yuki Wilson,yuki.wilson45@example.com,Australia,Asia Pacific,Consumer,2025-04-07
+C0046,Grace Moreau,grace.moreau46@example.com,United States,North America,Corporate,2024-07-07
+C0047,Rohan Smith,rohan.smith47@example.com,Japan,Asia Pacific,Small Business,2025-05-19
+C0048,Lucas Brown,lucas.brown48@example.com,United Kingdom,Europe,Consumer,2025-06-04
+C0049,Priya Patel,priya.patel49@example.com,United States,North America,Consumer,2024-02-04
+C0050,Mia Singh,mia.singh50@example.com,United States,North America,Corporate,2025-01-18
+C0051,Amelia Moreau,amelia.moreau51@example.com,France,Europe,Consumer,2023-07-14
+C0052,Ethan Tanaka,ethan.tanaka52@example.com,Japan,Asia Pacific,Consumer,2024-07-09
+C0053,Olivia Wagner,olivia.wagner53@example.com,Canada,North America,Consumer,2024-05-03
+C0054,Leon Fischer,leon.fischer54@example.com,United States,North America,Small Business,2023-03-24
+C0055,Grace Brown,grace.brown55@example.com,United States,North America,Consumer,2025-06-01
+C0056,Lucas Taylor,lucas.taylor56@example.com,United States,North America,Small Business,2023-09-10
+C0057,Arjun Walker,arjun.walker57@example.com,United States,North America,Consumer,2024-11-04
+C0058,Arjun Lee,arjun.lee58@example.com,Germany,Europe,Small Business,2023-07-29
+C0059,Lea Suzuki,lea.suzuki59@example.com,Canada,North America,Consumer,2023-05-15
+C0060,Lea Reddy,lea.reddy60@example.com,United States,North America,Consumer,2025-02-08
+C0061,Ananya Garcia,ananya.garcia61@example.com,United States,North America,Corporate,2024-07-30
+C0062,Emma Garcia,emma.garcia62@example.com,Germany,Europe,Consumer,2023-05-16
+C0063,Ananya Dubois,ananya.dubois63@example.com,Australia,Asia Pacific,Small Business,2024-01-14
+C0064,Ethan Brown,ethan.brown64@example.com,United Kingdom,Europe,Consumer,2023-11-06
+C0065,Zoe Reddy,zoe.reddy65@example.com,Germany,Europe,Corporate,2024-07-21
+C0066,Ethan Hughes,ethan.hughes66@example.com,United States,North America,Small Business,2023-09-28
+C0067,Emma Muller,emma.muller67@example.com,India,Asia Pacific,Consumer,2023-10-16
+C0068,Zoe Tanaka,zoe.tanaka68@example.com,Spain,Europe,Consumer,2024-10-11
+C0069,Grace Kumar,grace.kumar69@example.com,Germany,Europe,Consumer,2025-05-16
+C0070,Olivia Garcia,olivia.garcia70@example.com,France,Europe,Corporate,2023-02-15
+C0071,Aarav Schmidt,aarav.schmidt71@example.com,India,Asia Pacific,Corporate,2023-09-26
+C0072,Ava Wagner,ava.wagner72@example.com,United Kingdom,Europe,Corporate,2024-07-28
+C0073,Aarav Muller,aarav.muller73@example.com,United States,North America,Small Business,2023-06-02
+C0074,Hannah Patel,hannah.patel74@example.com,India,Asia Pacific,Consumer,2023-06-01
+C0075,Hiro Martin,hiro.martin75@example.com,United States,North America,Consumer,2025-03-26
+C0076,Grace Patel,grace.patel76@example.com,Australia,Asia Pacific,Consumer,2023-09-13
+C0077,Lea Muller,lea.muller77@example.com,Canada,North America,Consumer,2025-06-14
+C0078,Hiro Walker,hiro.walker78@example.com,India,Asia Pacific,Small Business,2023-08-31
+C0079,Grace Brown,grace.brown79@example.com,Japan,Asia Pacific,Corporate,2025-06-21
+C0080,Hiro Smith,hiro.smith80@example.com,United States,North America,Small Business,2025-03-12
+C0081,Ananya Sato,ananya.sato81@example.com,India,Asia Pacific,Small Business,2025-04-10
+C0082,Lucas Kumar,lucas.kumar82@example.com,United States,North America,Corporate,2024-01-27
+C0083,Grace Patel,grace.patel83@example.com,Australia,Asia Pacific,Consumer,2025-04-16
+C0084,Ananya Singh,ananya.singh84@example.com,Canada,North America,Corporate,2025-06-11
+C0085,Lucas Wilson,lucas.wilson85@example.com,United States,North America,Consumer,2023-12-03
+C0086,Mia Garcia,mia.garcia86@example.com,Japan,Asia Pacific,Consumer,2024-10-18
+C0087,Leon Taylor,leon.taylor87@example.com,Spain,Europe,Corporate,2023-12-06
+C0088,Aarav Muller,aarav.muller88@example.com,Australia,Asia Pacific,Consumer,2024-08-17
+C0089,Mia Patel,mia.patel89@example.com,United States,North America,Consumer,2025-01-16
+C0090,Amelia Schmidt,amelia.schmidt90@example.com,United Kingdom,Europe,Small Business,2023-04-29
+C0091,Priya Lee,priya.lee91@example.com,United States,North America,Consumer,2024-03-22
+C0092,Aarav Fischer,aarav.fischer92@example.com,Japan,Asia Pacific,Consumer,2025-01-06
+C0093,Sara Wagner,sara.wagner93@example.com,Spain,Europe,Consumer,2023-03-13
+C0094,Lea Schmidt,lea.schmidt94@example.com,France,Europe,Corporate,2023-05-08
+C0095,Sara Lopez,sara.lopez95@example.com,Germany,Europe,Corporate,2023-12-01
+C0096,Priya Suzuki,priya.suzuki96@example.com,United States,North America,Consumer,2024-03-06
+C0097,Lea Taylor,lea.taylor97@example.com,Spain,Europe,Small Business,2024-09-22
+C0098,Arjun Lopez,arjun.lopez98@example.com,United Kingdom,Europe,Corporate,2023-11-08
+C0099,Ethan Tanaka,ethan.tanaka99@example.com,United Kingdom,Europe,Consumer,2024-11-01
+C0100,Isabella Singh,isabella.singh100@example.com,United Kingdom,Europe,Corporate,2024-06-07
+C0101,Chloe Wagner,chloe.wagner101@example.com,United States,North America,Consumer,2024-06-11
+C0102,Lea Reddy,lea.reddy102@example.com,France,Europe,Consumer,2025-02-08
+C0103,Lucas Hughes,lucas.hughes103@example.com,Canada,North America,Corporate,2023-05-31
+C0104,Aarav Patel,aarav.patel104@example.com,United States,North America,Consumer,2025-05-20
+C0105,Kenji Garcia,kenji.garcia105@example.com,United Kingdom,Europe,Small Business,2024-08-12
+C0106,Sophia Suzuki,sophia.suzuki106@example.com,Spain,Europe,Consumer,2023-09-07
+C0107,Noah Reddy,noah.reddy107@example.com,Spain,Europe,Small Business,2025-05-31
+C0108,Kenji Muller,kenji.muller108@example.com,India,Asia Pacific,Consumer,2025-04-03
+C0109,Diego Fischer,diego.fischer109@example.com,United Kingdom,Europe,Consumer,2025-05-18
+C0110,Emma Singh,emma.singh110@example.com,United States,North America,Consumer,2024-06-27
+C0111,Hannah Walker,hannah.walker111@example.com,Canada,North America,Corporate,2024-03-29
+C0112,Zoe Wagner,zoe.wagner112@example.com,Australia,Asia Pacific,Consumer,2024-07-15
+C0113,Yuki Brown,yuki.brown113@example.com,India,Asia Pacific,Consumer,2023-09-23
+C0114,Kenji Wilson,kenji.wilson114@example.com,India,Asia Pacific,Consumer,2025-03-07
+C0115,Leon Clark,leon.clark115@example.com,France,Europe,Consumer,2023-03-21
+C0116,Diego Lopez,diego.lopez116@example.com,United States,North America,Consumer,2024-07-07
+C0117,Liam Martin,liam.martin117@example.com,United States,North America,Consumer,2023-06-06
+C0118,Diego Tanaka,diego.tanaka118@example.com,United States,North America,Consumer,2024-07-09
+C0119,Yuki Sato,yuki.sato119@example.com,United States,North America,Corporate,2024-02-03
+C0120,Felix Bernard,felix.bernard120@example.com,Germany,Europe,Corporate,2025-05-27
+C0121,Felix Bernard,felix.bernard121@example.com,Germany,Europe,Consumer,2023-12-27
+C0122,Ethan Bernard,ethan.bernard122@example.com,United Kingdom,Europe,Small Business,2025-05-05
+C0123,Hiro Moreau,hiro.moreau123@example.com,India,Asia Pacific,Consumer,2024-09-09
+C0124,Felix Wilson,felix.wilson124@example.com,United Kingdom,Europe,Consumer,2024-05-12
+C0125,Aarav Taylor,aarav.taylor125@example.com,Canada,North America,Corporate,2024-02-19
+C0126,Sara Brown,sara.brown126@example.com,Australia,Asia Pacific,Small Business,2024-09-29
+C0127,Hannah Smith,hannah.smith127@example.com,Australia,Asia Pacific,Consumer,2024-11-09
+C0128,Aarav Garcia,aarav.garcia128@example.com,France,Europe,Consumer,2024-04-17
+C0129,Ava Patel,ava.patel129@example.com,United States,North America,Consumer,2024-04-10
+C0130,Isabella Schmidt,isabella.schmidt130@example.com,India,Asia Pacific,Consumer,2025-02-09
+C0131,Rohan Sato,rohan.sato131@example.com,United States,North America,Consumer,2023-01-20
+C0132,Sara Moreau,sara.moreau132@example.com,United States,North America,Small Business,2023-08-18
+C0133,Oscar Garcia,oscar.garcia133@example.com,India,Asia Pacific,Corporate,2025-02-11
+C0134,Aarav Wilson,aarav.wilson134@example.com,United States,North America,Consumer,2023-06-06
+C0135,Lucas Martin,lucas.martin135@example.com,United Kingdom,Europe,Consumer,2023-08-12
+C0136,Yuki Suzuki,yuki.suzuki136@example.com,United States,North America,Consumer,2024-09-12
+C0137,Zoe Wagner,zoe.wagner137@example.com,Spain,Europe,Corporate,2023-06-17
+C0138,Ethan Muller,ethan.muller138@example.com,Germany,Europe,Small Business,2024-08-12
+C0139,Lea Taylor,lea.taylor139@example.com,United Kingdom,Europe,Corporate,2023-03-19
+C0140,Arjun Suzuki,arjun.suzuki140 at example.com,  india ,Asia Pacific,Consumer,2024-12-14
+C0141,Kenji Lopez,kenji.lopez141@example.com,Australia,Asia Pacific,Corporate,2023-05-04
+C0142,Amelia Lee,amelia.lee142@example.com,India,Asia Pacific,Consumer,2024-03-14
+C0143,Lea Dubois,lea.dubois143@example.com,United States,North America,Corporate,2023-01-13
+C0144,Grace Sato,grace.sato144@example.com,India,Asia Pacific,Consumer,2024-01-06
+C0145,Oscar Singh,oscar.singh145@example.com,Spain,Europe,Consumer,2025-01-21
+C0146,Leon Reddy,leon.reddy146@example.com,United States,North America,Corporate,2024-07-05
+C0147,Kenji Clark,kenji.clark147@example.com,United Kingdom,Europe,Corporate,2024-08-29
+C0148,Mia Schmidt,mia.schmidt148@example.com,Australia,Asia Pacific,Corporate,2023-03-30
+C0149,Mia Singh,mia.singh149@example.com,United States,North America,Consumer,2024-09-16
+C0150,Lea Taylor,lea.taylor150@example.com,Canada,North America,Consumer,2023-11-29
+C0151,Ava Clark,ava.clark151@example.com,United States,North America,Corporate,2023-12-15
+C0152,Mia Walker,mia.walker152@example.com,Spain,Europe,Consumer,2023-01-11
+C0153,Leon Tanaka,leon.tanaka153@example.com,United States,North America,Corporate,2024-05-15
+C0154,Hannah Bernard,hannah.bernard154@example.com,United States,North America,Consumer,2024-12-29
+C0155,Chloe Singh,chloe.singh155@example.com,India,Asia Pacific,Consumer,2023-08-15
+C0156,Priya Suzuki,priya.suzuki156@example.com,United States,North America,Corporate,2024-01-13
+C0157,Chloe Moreau,chloe.moreau157@example.com,Germany,Europe,Consumer,2025-02-02
+C0158,Hannah Schmidt,hannah.schmidt158@example.com,Canada,North America,Consumer,2023-11-10
+C0159,Mia Wilson,mia.wilson159@example.com,United States,North America,Consumer,2023-05-03
+C0160,Sara Moreau,sara.moreau160@example.com,Japan,Asia Pacific,Corporate,2023-07-16
+C0161,Sophia Wagner,sophia.wagner161@example.com,United Kingdom,Europe,Corporate,2025-02-17
+C0162,Leon Walker,leon.walker162@example.com,United States,North America,Consumer,2023-07-18
+C0163,Ethan Wilson,ethan.wilson163@example.com,Canada,North America,Consumer,2024-12-26
+C0164,Hannah Martin,hannah.martin164@example.com,United States,North America,Small Business,2024-07-20
+C0165,Ethan Suzuki,ethan.suzuki165@example.com,Japan,Asia Pacific,Corporate,2025-02-09
+C0166,Chloe Muller,chloe.muller166@example.com,Australia,Asia Pacific,Consumer,2024-04-25
+C0167,Chloe Singh,chloe.singh167@example.com,Canada,North America,Small Business,2023-09-16
+C0168,Grace Clark,grace.clark168@example.com,United States,North America,Consumer,2024-05-18
+C0169,Liam Lee,liam.lee169@example.com,France,Europe,Consumer,2023-06-02
+C0170,Amelia Lee,amelia.lee170@example.com,Japan,Asia Pacific,Consumer,2023-09-12
+C0171,Emma Moreau,emma.moreau171@example.com,India,Asia Pacific,Corporate,2025-03-20
+C0172,Zoe Wilson,zoe.wilson172@example.com,India,Asia Pacific,Consumer,2024-03-29
+C0173,Ethan Lee,ethan.lee173@example.com,Japan,Asia Pacific,Consumer,2024-09-27
+C0174,Olivia Walker,olivia.walker174@example.com,Japan,Asia Pacific,Consumer,2025-02-20
+C0175,Sophia Reddy,sophia.reddy175@example.com,United States,North America,Corporate,2023-06-10
+C0176,Lucas Brown,lucas.brown176@example.com,Germany,Europe,Consumer,2024-02-23
+C0177,Yuki Suzuki,yuki.suzuki177@example.com,Germany,Europe,Consumer,2023-08-26
+C0178,Ethan Suzuki,ethan.suzuki178@example.com,United States,North America,Small Business,2023-03-14
+C0179,Lea Wilson,lea.wilson179@example.com,Japan,Asia Pacific,Corporate,2024-10-02
+C0180,Arjun Hughes,arjun.hughes180@example.com,India,Asia Pacific,Consumer,2023-04-28
+C0181,Hannah Wilson,hannah.wilson181@example.com,France,Europe,Small Business,2025-04-26
+C0182,Noah Garcia,noah.garcia182@example.com,United States,North America,Corporate,2024-09-01
+C0183,Sara Lee,sara.lee183@example.com,Japan,Asia Pacific,Consumer,2024-04-24
+C0184,Diego Lopez,diego.lopez184@example.com,Spain,Europe,Small Business,2024-05-27
+C0185,Hannah Clark,hannah.clark185@example.com,United Kingdom,Europe,Consumer,2025-06-29
+C0186,Hiro Wagner,hiro.wagner186@example.com,Canada,North America,Consumer,2023-04-04
+C0187,Lucas Hughes,lucas.hughes187@example.com,India,Asia Pacific,Consumer,2023-01-22
+C0188,Kenji Hughes,kenji.hughes188@example.com,India,Asia Pacific,Consumer,2025-02-20
+C0189,Kenji Brown,kenji.brown189@example.com,United Kingdom,Europe,Corporate,2023-10-12
+C0190,Ava Lee,ava.lee190@example.com,United Kingdom,Europe,Corporate,2023-04-04
+C0191,Chloe Dubois,chloe.dubois191@example.com,United Kingdom,Europe,Consumer,2023-04-18
+C0192,Grace Brown,grace.brown192@example.com,Canada,North America,Corporate,2023-10-23
+C0193,Lea Taylor,lea.taylor193@example.com,India,Asia Pacific,Consumer,2024-04-10
+C0194,Liam Schmidt,liam.schmidt194@example.com,United States,North America,Consumer,2025-03-02
+C0195,Priya Fischer,priya.fischer195@example.com,India,Asia Pacific,Consumer,2025-06-09
+C0196,Hannah Singh,hannah.singh196@example.com,United Kingdom,Europe,Consumer,2024-01-06
+C0197,Zoe Bernard,zoe.bernard197@example.com,United Kingdom,Europe,Consumer,2023-02-22
+C0198,Sophia Kumar,sophia.kumar198@example.com,Germany,Europe,Small Business,2024-03-24
+C0199,Felix Suzuki,felix.suzuki199@example.com,United Kingdom,Europe,Consumer,2024-10-07
+C0200,Zoe Wilson,zoe.wilson200@example.com,Spain,Europe,Consumer,2023-01-15
+C0201,Hannah Sato,hannah.sato201@example.com,United States,North America,Small Business,2023-04-27
+C0202,Yuki Muller,yuki.muller202@example.com,France,Europe,Consumer,2025-01-03
+C0203,Ethan Fischer,ethan.fischer203@example.com,Spain,Europe,Consumer,2024-05-09
+C0204,Chloe Wilson,chloe.wilson204@example.com,United Kingdom,Europe,Consumer,2023-07-15
+C0205,Ananya Walker,ananya.walker205@example.com,Germany,Europe,Small Business,2025-06-03
+C0206,Liam Kumar,liam.kumar206@example.com,India,Asia Pacific,Small Business,2023-12-15
+C0207,Ananya Fischer,ananya.fischer207@example.com,United States,North America,Consumer,2025-01-13
+C0208,Ethan Lee,ethan.lee208@example.com,Germany,Europe,Corporate,2025-06-05
+C0209,Noah Singh,noah.singh209@example.com,Germany,Europe,Consumer,2024-07-19
+C0210,Kenji Moreau,kenji.moreau210@example.com,Canada,North America,Small Business,2025-06-09
+C0211,Sophia Suzuki,sophia.suzuki211@example.com,United States,North America,Consumer,2025-05-26
+C0212,Kenji Sato,kenji.sato212@example.com,United States,North America,Corporate,2024-12-23
+C0213,Ananya Taylor,ananya.taylor213@example.com,  united kingdom ,Europe,Corporate,2025-04-20
+C0214,Oscar Martin,oscar.martin214@example.com,United Kingdom,Europe,Consumer,2024-05-29
+C0215,Arjun Schmidt,arjun.schmidt215@example.com,Australia,Asia Pacific,Small Business,2024-03-26
+C0216,Emma Fischer,emma.fischer216@example.com,Australia,Asia Pacific,Consumer,2023-05-28
+C0217,Hiro Reddy,hiro.reddy217@example.com,Japan,Asia Pacific,Consumer,2025-03-11
+C0218,Mia Schmidt,mia.schmidt218 at example.com,France,Europe,Consumer,2023-03-24
+C0219,Grace Schmidt,grace.schmidt219@example.com,Australia,Asia Pacific,Small Business,2024-01-25
+C0220,Isabella Reddy,isabella.reddy220@example.com,Spain,Europe,Corporate,2025-06-12
+C0221,Hannah Patel,hannah.patel221@example.com,France,Europe,Consumer,2024-12-01
+C0222,Ananya Lopez,ananya.lopez222@example.com,Japan,Asia Pacific,Corporate,2024-03-20
+C0223,Emma Bernard,emma.bernard223@example.com,France,Europe,Small Business,2024-03-30
+C0224,Ava Suzuki,ava.suzuki224@example.com,United States,North America,Consumer,2023-11-29
+C0225,Amelia Patel,amelia.patel225@example.com,United States,North America,Consumer,2023-05-30
+C0226,Lucas Fischer,lucas.fischer226@example.com,United Kingdom,Europe,Corporate,2023-07-04
+C0227,Ava Brown,ava.brown227 at example.com,  united states ,North America,Small Business,2024-09-26
+C0228,Lea Wilson,lea.wilson228@example.com,United Kingdom,Europe,Consumer,2023-08-26
+C0229,Yuki Reddy,yuki.reddy229@example.com,United States,North America,Consumer,2023-01-10
+C0230,Felix Singh,felix.singh230@example.com,Australia,Asia Pacific,Corporate,2023-06-11
+C0231,Liam Singh,liam.singh231@example.com,Japan,Asia Pacific,Small Business,2023-11-03
+C0232,Oscar Sato,oscar.sato232@example.com,Spain,Europe,Consumer,2023-11-06
+C0233,Sophia Taylor,sophia.taylor233@example.com,Australia,Asia Pacific,Consumer,2024-01-26
+C0234,Arjun Dubois,arjun.dubois234@example.com,Germany,Europe,Small Business,2023-10-30
+C0235,Aarav Hughes,aarav.hughes235@example.com,United Kingdom,Europe,Consumer,2025-06-04
+C0236,Lea Bernard,lea.bernard236@example.com,India,Asia Pacific,Consumer,2024-09-12
+C0237,Sara Clark,sara.clark237@example.com,India,Asia Pacific,Small Business,2025-03-05
+C0238,Amelia Wilson,amelia.wilson238@example.com,France,Europe,Consumer,2024-10-13
+C0239,Sophia Walker,sophia.walker239@example.com,United States,North America,Corporate,2025-02-24
+C0240,Lea Hughes,lea.hughes240@example.com,India,Asia Pacific,Corporate,2024-10-04
+C0241,Oscar Patel,oscar.patel241@example.com,Canada,North America,Consumer,2024-08-16
+C0242,Mateo Wagner,mateo.wagner242@example.com,United States,North America,Small Business,2023-12-01
+C0243,Sara Sato,sara.sato243@example.com,United States,North America,Consumer,2024-07-06
+C0244,Felix Dubois,felix.dubois244@example.com,Germany,Europe,Small Business,2025-04-30
+C0245,Ava Kumar,ava.kumar245@example.com,Australia,Asia Pacific,Small Business,2025-04-05
+C0246,Ethan Wagner,ethan.wagner246@example.com,Australia,Asia Pacific,Corporate,2024-04-24
+C0247,Liam Martin,liam.martin247@example.com,India,Asia Pacific,Consumer,2024-11-23
+C0248,Sara Hughes,sara.hughes248@example.com,Japan,Asia Pacific,Small Business,2025-04-03
+C0249,Hannah Dubois,hannah.dubois249@example.com,  united states ,North America,Consumer,2023-09-28
+C0250,Hannah Muller,hannah.muller250@example.com,United Kingdom,Europe,Corporate,2024-11-19
+C0251,Mia Lee,mia.lee251@example.com,United Kingdom,Europe,Corporate,2024-01-16
+C0252,Emma Hughes,emma.hughes252@example.com,United States,North America,Consumer,2025-06-24
+C0253,Hannah Schmidt,hannah.schmidt253@example.com,Australia,Asia Pacific,Consumer,2023-03-06
+C0254,Oscar Singh,oscar.singh254@example.com,Australia,Asia Pacific,Consumer,2024-02-23
+C0255,Emma Martin,emma.martin255@example.com,United States,North America,Consumer,2024-05-19
+C0256,Emma Muller,emma.muller256@example.com,United States,North America,Consumer,2024-02-02
+C0257,Yuki Dubois,yuki.dubois257@example.com,Spain,Europe,Corporate,2024-07-07
+C0258,Hiro Lee,hiro.lee258@example.com,India,Asia Pacific,Consumer,2024-02-29
+C0259,Oscar Muller,oscar.muller259@example.com,India,Asia Pacific,Corporate,2023-10-14
+C0260,Olivia Suzuki,olivia.suzuki260@example.com,Canada,North America,Consumer,2023-08-30
+C0261,Grace Dubois,grace.dubois261@example.com,United States,North America,Corporate,2024-07-11
+C0262,Felix Reddy,felix.reddy262@example.com,Canada,North America,Consumer,2023-07-14
+C0263,Emma Singh,emma.singh263@example.com,United States,North America,Consumer,2024-10-16
+C0264,Zoe Smith,zoe.smith264@example.com,United States,North America,Consumer,2023-05-09
+C0265,Amelia Lee,amelia.lee265@example.com,United States,North America,Corporate,2024-07-21
+C0266,Sophia Lee,sophia.lee266@example.com,United States,North America,Small Business,2023-12-03
+C0267,Kenji Martin,kenji.martin267@example.com,India,Asia Pacific,Consumer,2023-10-11
+C0268,Grace Martin,grace.martin268@example.com,Japan,Asia Pacific,Consumer,2025-03-28
+C0269,Ava Muller,ava.muller269@example.com,France,Europe,Consumer,2023-01-16
+C0270,Mateo Wilson,mateo.wilson270@example.com,Germany,Europe,Consumer,2023-09-29
+C0271,Olivia Martin,olivia.martin271@example.com,India,Asia Pacific,Consumer,2025-02-02
+C0272,Liam Clark,liam.clark272@example.com,United Kingdom,Europe,Consumer,2024-08-30
+C0273,Emma Singh,emma.singh273@example.com,Germany,Europe,Small Business,2023-02-14
+C0274,Sara Hughes,sara.hughes274@example.com,Germany,Europe,Consumer,2023-02-01
+C0275,Olivia Clark,olivia.clark275@example.com,Australia,Asia Pacific,Consumer,2023-04-21
+C0276,Chloe Suzuki,chloe.suzuki276@example.com,Australia,Asia Pacific,Consumer,2023-03-24
+C0277,Isabella Walker,isabella.walker277@example.com,United States,North America,Consumer,2024-10-01
+C0278,Oscar Lee,oscar.lee278@example.com,Germany,Europe,Consumer,2024-09-03
+C0279,Leon Lopez,leon.lopez279@example.com,United Kingdom,Europe,Corporate,2023-04-12
+C0280,Amelia Suzuki,amelia.suzuki280@example.com,United States,North America,Corporate,2025-06-17
+C0281,Kenji Moreau,kenji.moreau281@example.com,India,Asia Pacific,Consumer,2024-04-07
+C0282,Felix Wilson,felix.wilson282@example.com,United Kingdom,Europe,Corporate,2024-02-13
+C0283,Hiro Wagner,hiro.wagner283@example.com,United States,North America,Consumer,2024-11-12
+C0284,Mia Dubois,mia.dubois284@example.com,Japan,Asia Pacific,Corporate,2024-04-30
+C0285,Liam Garcia,liam.garcia285@example.com,India,Asia Pacific,Consumer,2023-04-09
+C0286,Sara Wagner,sara.wagner286@example.com,Canada,North America,Consumer,2023-03-03
+C0287,Arjun Moreau,arjun.moreau287@example.com,Germany,Europe,Corporate,2024-02-25
+C0288,Mateo Hughes,mateo.hughes288@example.com,Japan,Asia Pacific,Consumer,2025-01-08
+C0289,Olivia Lopez,olivia.lopez289@example.com,France,Europe,Consumer,2024-08-14
+C0290,Leon Tanaka,leon.tanaka290@example.com,United States,North America,Consumer,2025-05-17
+C0291,Emma Dubois,emma.dubois291@example.com,Australia,Asia Pacific,Consumer,2025-02-19
+C0292,Mia Lee,mia.lee292@example.com,United States,North America,Consumer,2024-07-28
+C0293,Kenji Walker,kenji.walker293@example.com,France,Europe,Corporate,2023-01-27
+C0294,Zoe Hughes,zoe.hughes294@example.com,India,Asia Pacific,Consumer,2023-07-04
+C0295,Mia Suzuki,mia.suzuki295@example.com,India,Asia Pacific,Small Business,2023-12-26
+C0296,Aarav Brown,aarav.brown296@example.com,Australia,Asia Pacific,Consumer,2024-02-15
+C0297,Liam Martin,liam.martin297@example.com,India,Asia Pacific,Small Business,2023-04-04
+C0298,Sara Fischer,sara.fischer298@example.com,United States,North America,Consumer,2023-12-16
+C0299,Ava Dubois,ava.dubois299@example.com,Canada,North America,Consumer,2024-08-04
+C0300,Zoe Garcia,zoe.garcia300@example.com,Australia,Asia Pacific,Consumer,2025-02-11
+C0111,Hannah Walker,hannah.walker111@example.com,Canada,North America,Corporate,2024-03-29
+C0263,Emma Singh,emma.singh263@example.com,United States,North America,Consumer,2024-10-16
+C0059,Lea Suzuki,lea.suzuki59@example.com,Canada,North America,Consumer,2023-05-15
+,Ghost Customer,,Germany,Europe,Consumer,2024-03-01
