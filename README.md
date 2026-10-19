@@ -5,7 +5,7 @@ currency API, cleans and validates it with Python, models it into a star schema 
 runs automated data-quality checks, and serves an interactive dashboard. Everything runs
 with one command in Docker and is tested on every push with GitHub Actions.
 
-![CI](https://github.com/YOUR-GITHUB-USERNAME/sales-analytics-platform/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/VISHNUMAC03/sales-analytics-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/VISHNUMAC03/sales-analytics-platform/actions/workflows/ci.yml)
 
 ![Dashboard screenshot](docs/images/dashboard.png)
 
