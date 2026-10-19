@@ -1,0 +1,9 @@
+# Exact versions ("pinning") so the project behaves the same on every computer.
+pandas==2.2.3          # cleaning and validating tables in Python
+duckdb==1.1.3          # the SQL data warehouse (a single file, no server needed)
+requests==2.32.3       # calling the exchange-rate API
+python-dotenv==1.0.1   # reading settings from a .env file
+boto3==1.35.54         # optional: uploading raw files to Amazon S3
+streamlit==1.39.0      # the dashboard web app
+plotly==5.24.1         # interactive charts in the dashboard
+pytest==8.3.3          # automated tests
