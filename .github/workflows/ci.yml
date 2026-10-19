@@ -1,0 +1,44 @@
+# GitHub Actions: every time you push code, GitHub starts a fresh Linux machine,
+# installs the project, runs the tests and the full pipeline, and builds the
+# Docker image. A green tick on your repo proves the project actually works.
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run unit and end-to-end tests
+        run: pytest -v
+
+      - name: Run the full pipeline
+        run: python -m pipeline.run_pipeline
+
+      - name: Upload the pipeline log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-log
+          path: logs/pipeline.log
+
+  docker-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the Docker image
+        run: docker build -t sales-analytics-platform .

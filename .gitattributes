@@ -1,0 +1,4 @@
+# Store text files with Linux line endings (LF) so they work the same in Docker,
+# GitHub Actions and on Windows. Images stay untouched.
+* text=auto eol=lf
+*.png binary

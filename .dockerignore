@@ -1,0 +1,11 @@
+.git
+.venv
+venv
+__pycache__
+.pytest_cache
+.env
+data/raw
+data/clean
+data/rejected
+warehouse
+logs

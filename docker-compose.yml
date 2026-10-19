@@ -1,0 +1,32 @@
+# docker compose up --build
+#   1. builds the image from the Dockerfile
+#   2. runs the pipeline container until it finishes
+#   3. if (and only if) it succeeded, starts the dashboard on http://localhost:8501
+#
+# The "volumes" share folders between your computer and the containers, so the
+# warehouse and logs the pipeline writes are visible to the dashboard and to you.
+
+services:
+  pipeline:
+    build: .
+    command: python -m pipeline.run_pipeline
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./data:/app/data
+      - ./warehouse:/app/warehouse
+      - ./logs:/app/logs
+
+  dashboard:
+    build: .
+    command: streamlit run dashboard/app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./warehouse:/app/warehouse
+      - ./logs:/app/logs
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
